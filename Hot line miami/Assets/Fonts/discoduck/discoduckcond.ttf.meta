@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 05e82feed6d084c8cbce2b98a0847517
+timeCreated: 1507452919
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Disco Duck Condensed
+  fontNames:
+  - Disco Duck Condensed
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

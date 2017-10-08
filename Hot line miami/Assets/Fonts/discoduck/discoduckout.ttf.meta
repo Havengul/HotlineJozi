@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d0d55a5dbfad94489a4a1a229c417b79
+timeCreated: 1507452920
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Disco Duck Outline
+  fontNames:
+  - Disco Duck Outline
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

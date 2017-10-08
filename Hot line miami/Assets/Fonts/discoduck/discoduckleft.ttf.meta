@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 690ac034a682a455f9d1fd2ecd6cdfbc
+timeCreated: 1507452920
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Disco Duck Leftalic
+  fontNames:
+  - Disco Duck Leftalic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ab4916ced12fc4818a0a063c6093100f
+timeCreated: 1507452920
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Disco Duck 3D Italic
+  fontNames:
+  - Disco Duck 3D Italic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

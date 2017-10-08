@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c0e247da607a44a4589b00fd9ec43d35
+timeCreated: 1507469686
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - PlayerTrans: {instanceID: 0}
+  - SmallRound: {fileID: 1802294127016926, guid: b5a54d0264ba743a9b98f6cbd36b169f,
+      type: 2}
+  - BuckShot: {fileID: 1848835105676260, guid: 64edb9005b384441a927085a674e5e13, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
